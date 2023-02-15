@@ -1,7 +1,9 @@
 package Pra1;
 
 public class Test2 {
-
+	public class Mohini {
+		System.out.prinln("Hello");
+	}
 	
 	public static void main(String[] args) {
 		
