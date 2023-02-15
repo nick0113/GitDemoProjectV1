@@ -21,5 +21,8 @@ public class Test1 {
 	}
 
 }
+public class Mohini {
+	System.out.prinln("Hello");
+}
 
 
