@@ -1,6 +1,6 @@
 package Pra1;
 
-public class Test1 {
+public class Test4 {
 
 	
 	public static void main(String[] args) {
@@ -18,6 +18,10 @@ public class Test1 {
 		{
 			System.out.println("Pratik");
 		}
+	}
+	private void syso() {
+		// TODO Auto-generated method stub
+System.out.println("samiksha");
 	}
 
 }
